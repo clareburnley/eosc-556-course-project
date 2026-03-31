@@ -16,4 +16,4 @@ The project is not yet complete. The repository may be updated with additional n
 
 3. Open and run the notebook "resistivity-slope-inversion.ipynb"
 
-Alternatively, the notebook can be ran through mybinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clareburnley/eosc-556-course-project.git/main?urlpath=%2Fdoc%2Ftree%2Fresistivity-slope-inversion.ipynb)
+Alternatively, the notebook can be run through mybinder.org: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/clareburnley/eosc-556-course-project.git/main?urlpath=%2Fdoc%2Ftree%2Fresistivity-slope-inversion.ipynb)
