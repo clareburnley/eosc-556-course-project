@@ -1,4 +1,15 @@
 # eosc-556-course-project
-My course project on detecting weak clay layers in landslide slopes via inversion
+This is my course project on detecting weak clay layers in landslide slopes by simulating a low resistivity layer in a slope.
 
-testing
+## Background
+This experiment aims to determine whether a weak clay layer can be detected through inversion of electrical resistivity data of a synthetic slope.
+
+## Project Status
+The project is not yet complete. The repository may be updated with additional notebooks or Python files as the work progresses.
+
+## Installation Instructions
+1. Clone the repository: https://github.com/clareburnley/eosc-556-course-project.git
+2. Congifure the environment:
+```conda env create -f environment.yml```
+```conda activate eosc-454```
+3. Open and run the notebook "resistivity-slope-inversion.ipynb"
