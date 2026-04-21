@@ -13,7 +13,7 @@ This repository contains:
 - "environment.yml" conda environment for reproducibility
 - "scenario0-resistivity-slope-inversion-initial.ipynb" this is the analysis and inversion on the initial synthetic slope
 - "scenario0-resistivity-slope-inversion-smoothest.ipynb" this is the analysis and inversion containing the smoothest recovered model on the initial synthetic slope
-- `additional-scenarios` this file contains analyses and inversions on additional scenarios:
+- `additional-scenarios` this folder contains analyses and inversions on additional scenarios:
     - "additional-scenario-1-thinner-clay.ipynb" this scenario considers a thinner clay layer than the initial scenario
     - "additional-scenario-2-two-clay-layers.ipynb" this scenario considers two clay layers in the subsurface
     - "additional-scenario-13-lower-conductivity-clay.ipynb" this scenario considers a lower clay conductivity than the initial scenario
