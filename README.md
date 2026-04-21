@@ -33,7 +33,7 @@ conda activate eosc-454
 ## Suggested File Navigation
 1. Begin by opening and reading the notebook "scenario0-resistivity-slope-inversion-initial.ipynb" to understand the initial model, forward problem, and inversion setup.
 2. Run the notebook to conduct the analysis.
-3. Open the notebook "scenario0-resistivity-slope-inversion-smoothest.ipynb" and note the different beta/tradeoff parameter used in construction the smoothest inversion.
+3. Open the notebook "scenario0-resistivity-slope-inversion-smoothest.ipynb" and note the different beta/tradeoff parameter used in constructing the smoothest inversion.
 4. Run the notebook to conduct the analysis.
 5. Navigate to the `additional-scenarios` folder.
 6. Open each additional scenario notebook and note the changes to the true model geometry and conductivity.
